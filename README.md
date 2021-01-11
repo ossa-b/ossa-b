@@ -1,6 +1,6 @@
 <h1>Hola!👋 Soy OSSAHUB.</h1> <br>
   <p>
-  Yo soy el creador de MultiPana. Un nada conocido bot de discord pero tiene bastante potencial. Por si tienen curiosidad tengo 14 años. Mi lenguaje de programación preferido es JavaScript. Actualmente estoy aprendiendo 
+  Yo soy el creador de MultiPana. Un nada conocido bot de discord pero tiene bastante potencial. Mi lenguaje de programación preferido es JavaScript. Actualmente estoy aprendiendo 
   CSS, y luego reforzaré JavaScript con un curso de aproximandamente 50 horas. luego de terminar los cursos actuales, aprenderé los siguientes lenguajes: <br>
   <ul>
     <li>Java</li>
