@@ -2,10 +2,9 @@
   <p>
   Yo soy el creador de MultiPana. Un nada conocido bot de discord pero tiene bastante potencial. Mi lenguaje de programación preferido es JavaScript. Actualmente estoy aprendiendo 
   CSS, y luego reforzaré JavaScript con un curso de aproximandamente 50 horas. luego de terminar los cursos actuales, aprenderé los siguientes lenguajes: <br>
-  <ul>
-    <li><img align="left" alt="C#" width="26px" src="https://api.iconify.design/mdi:c#.svg?color=%2300fef4&height=32" /></li>
-    <li><img align="left" alt="Java" width="26px" src="https://api.iconify.design/mdi:java.svg?color=%2300fef4&height=32" /></li>
-    </ul>
+  <br>
+    <li><img align="left" alt="C#" width="26px" src="https://api.iconify.design/mdi:c#.svg?color=%2300fef4&height=32" /><br>
+    <li><img align="left" alt="Java" width="26px" src="https://api.iconify.design/mdi:java.svg?color=%2300fef4&height=32" />
   </p> <br>
   
 
