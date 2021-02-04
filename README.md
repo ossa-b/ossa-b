@@ -3,29 +3,17 @@
   Yo soy el creador de MultiPana. Un nada conocido bot de discord pero tiene bastante potencial. Mi lenguaje de programación preferido es JavaScript. Actualmente estoy aprendiendo 
   CSS, y luego reforzaré JavaScript con un curso de aproximandamente 50 horas. luego de terminar los cursos actuales, aprenderé los siguientes lenguajes: <br>
   <ul>
-    <li>C#</li>
-    <li>Java</li>
+    <li><img align="left" alt="C#" width="26px" src="https://api.iconify.design/mdi:c#.svg?color=%2300fef4&height=32" /></li>
+    <li><img align="left" alt="Java" width="26px" src="https://api.iconify.design/mdi:java.svg?color=%2300fef4&height=32" /></li>
     </ul>
   </p> <br>
   
-  <h2>Lenguajes que actualmente se usar:</h2> <br>
-  
-  <ul>
-  
-  <li>VisualBasic.NET (El primero que conocí)</li>
-  <li>HTML</li>
-  <li>JavaScript</li>
-  </ul>
-  
-  
-<h2>Aquí les dejo mis Github Stats:</h2>
 
 <p>
-  <h2></h2>
+  <h2>Lenguajes de programación y tecnoligías:</h2>
   <img align="left" alt="Node.js" width="26px" src="https://api.iconify.design/mdi:nodejs.svg?color=%2300fef4&height=32" />
   <img align="left" alt="JavaScript" width="32px" src="https://api.iconify.design/mdi:language-javascript.svg?color=%2300fef4&height=32" />
   <img align="left" alt="HTML5" width="32px" src="https://api.iconify.design/mdi:language-html5.svg?color=%2300fef4&height=32" />
-  <img align="left" alt="VisualBasic.NET" width="32px" src="https://api.iconify.design/mdi:language-vb.net.svg?color=%2300fef4&height=32" />
   <img align="left" alt="CSS3" width="32px" src="https://api.iconify.design/mdi:language-css3.svg?color=%2300fef4&height=32" /> <br>
   <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OSSAHUB&theme=radical" />
