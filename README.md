@@ -21,7 +21,12 @@
 <h2>Aquí les dejo mis Github Stats:</h2>
 
 <p>
-<img align="center" src="https://img.shields.io/badge/Lenguaje Preferido-JavaScript-informational?style=flat&logo=JavaScript&logoColor=light_yellow&color=2bbc8a" /> <img align="center" src="https://img.shields.io/badge/Editor-Visual Studio Code-informational?style=flat&logo=visual-studio-code&logoColor=blue&color=2bbc8a" /> <br>
+  <h2></h2>
+  <img align="left" alt="Node.js" width="26px" src="https://api.iconify.design/mdi:nodejs.svg?color=%2300fef4&height=32" />
+  <img align="left" alt="JavaScript" width="32px" src="https://api.iconify.design/mdi:language-javascript.svg?color=%2300fef4&height=32" />
+  <img align="left" alt="HTML5" width="32px" src="https://api.iconify.design/mdi:language-html5.svg?color=%2300fef4&height=32" />
+  <img align="left" alt="VisualBasic.NET" width="32px" src="https://api.iconify.design/mdi:language-vb.net.svg?color=%2300fef4&height=32" />
+  <img align="left" alt="CSS3" width="32px" src="https://api.iconify.design/mdi:language-css3.svg?color=%2300fef4&height=32" /> <br>
   <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OSSAHUB&theme=radical" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=OSSAHUB&show_icons=true&theme=radical" />
