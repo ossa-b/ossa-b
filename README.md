@@ -14,8 +14,8 @@
   <img align="left" alt="HTML5" width="32px" src="https://api.iconify.design/mdi:language-html5.svg?color=%2300fef4&height=32" />
   <img align="left" alt="CSS3" width="32px" src="https://api.iconify.design/mdi:language-css3.svg?color=%2300fef4&height=32" /> <br>
   <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OSSAHUB&theme=radical" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OSSAHUB&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ossa-b&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ossa-b&show_icons=true&theme=radical" />
   
   
 
