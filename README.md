@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html>
+    <body>
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@500&display=swap');
 
@@ -136,3 +139,6 @@ body {
             <br>
             <br>
             <footer class="footer">Copyright © OSSA__B Development | Todos los proyectos ya sean públicos o privados están sujetos a derechos de autor bajo la licencia <a href="https://www.apache.org/licenses/LICENSE-2.0" target="_BLANK">Apache 2.0</a> y está prohibida la copia. Son solo para referencias para tus proyectos.</footer>
+            
+            </body>
+            </html>
