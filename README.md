@@ -1,22 +1,26 @@
- 
+ <!--OSSA__B README FILE || BASED ON OSSA__B OFFICIAL WEBSITE-->
+ <script>
+ var terminados = "nodata";
+ var progreso = "nodata";
+</script>
             <div class="titulos">
             <h1>OSSA__B Development</h1><br>
             <h2>Bienvenido!</h2>
             </div>
             <h2 class="parrafo">
-                Hola! 👋 Soy OSSA__B!<br><img src="assets/index-img1.png" width="100" style="margin:0 auto;"><br> Mis intereses en la informática son:
+                Hi! 👋 I´m OSSA__B!<br><img src="assets/index-img1.png" width="100" style="margin:0 auto;"><br> Mis intereses en la informática son:
             </h2>
             <div class="prrfo">
                 <p class="interesado">
-                <img src="assets/index-www.png" width="50"> Desarrollo web <br>
-                <img src="assets/index-discord.png" width="50"> Bots de discord <br>
-                <img src="assets/index-unity.png" width="50"> Desarrollo de videojuegos en Unity 3D (Recién empezando) <br>
-                <img src="assets/index-electron.png" width="50"> Aplicaciones de escritorio (Actualmente solo electron.js) <br>
-                <img src="assets/index-makeblock.png" width="50"> Robótica en makeblock <br>
+                <img src="assets/index-www.png" width="50"> Web Development <br>
+                <img src="assets/index-discord.png" width="50"> Discord Bots <br>
+                <img src="assets/index-unity.png" width="50"> Videogames Development (Unity5)<br>
+                <img src="assets/index-electron.png" width="50"> Desktop Applications (Only electron.js) <br>
+                <img src="assets/index-makeblock.png" width="50"> Makeblock Robots <br>
                 </p>
             </div>
             <h2 class="parrafo">
-            <br> Los lenguajes de programación que actualmente uso son:
+            <br> The programming languages that i actually use are:
             </h2>
             <div class="prrfo">
                 <p class="interesado">
@@ -31,11 +35,11 @@
                 <br> Estadísticas:
                 </h2>
                 <div class="stats">
-                    <h1>Proyectos en desarrollo:</h1>
+                    <h1>Development projects:</h1>
                     <h2><script>document.write(progreso)</script></h2>
                 </div>
                 <div class="stats">
-                    <h1>Proyectos terminados:</h1>
+                    <h1>Finished projects:</h1>
                     <h2><script>document.write(terminado)</script></h2>
                 </div>
             <br>
