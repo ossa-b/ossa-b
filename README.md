@@ -1,14 +1,7 @@
-    <div class="nav-barra">
-            <a href="https://github.com/OSSAHUB" target="_BLANK">Github</a>
-            <a href="./servicios.html">Servicios</a>
-            <a href="./proyectos.html">Proyectos</a>
-            <a href="./multipana.html" class="mp">MultiPana</a>
-            <a class="activo" href="index.html">Inicio</a>
-            <img src="assets/ossa__b-logo.png" class="img-logo">
-            </div>
+ 
             <div class="titulos">
             <h1>OSSA__B Development</h1><br>
-            <h2>Hola :3 Te doy la bienvenida a mi página web! Aquí publicaré proyectos y muchas cosas más!</h2>
+            <h2>Bienvenido!</h2>
             </div>
             <h2 class="parrafo">
                 Hola! 👋 Soy OSSA__B!<br><img src="assets/index-img1.png" width="100" style="margin:0 auto;"><br> Mis intereses en la informática son:
