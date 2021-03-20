@@ -1,8 +1,5 @@
- <!--OSSA__B README FILE || BASED ON OSSA__B OFFICIAL WEBSITE-->
-            <div class="titulos">
-            <h1>OSSA__B Development</h1><br>
+<body>            <h1>OSSA__B Development</h1><br>
             <h2>Bienvenido!</h2>
-            </div>
             <h2 class="parrafo">
                 Hi! 👋 I´m OSSA__B!<br><img src="assets/index-img1.png" width="100" style="margin:0 auto;"><br> Mis intereses en la informática son:
             </h2>
@@ -33,3 +30,4 @@
             <br>
             <br>
             <footer class="footer">Copyright © OSSA__B Development | Todos los proyectos ya sean públicos o privados están sujetos a derechos de autor bajo la licencia <a href="https://www.apache.org/licenses/LICENSE-2.0" target="_BLANK">Apache 2.0</a> y está prohibida la copia. Son solo para referencias para tus proyectos.</footer>
+</body>
