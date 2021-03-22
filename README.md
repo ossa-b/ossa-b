@@ -1,7 +1,7 @@
 <body>
             <h2>Welcome!</h2>
             <h2 class="parrafo">
-                Hi! 👋 I´m OSSA__B!<br><img src="assets/ossa__b-logo.png" width="100" style="margin:0 auto;"><br> Mis intereses en la informática son:
+                Hi! 👋 I´m OSSA__B!<br><img src="assets/ossa__b-logo.png" width="100" style="margin:0 auto;"><br> I´m interested in...
             </h2>
             <div class="prrfo">
                 <p class="interesado">
