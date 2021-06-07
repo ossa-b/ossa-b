@@ -1,7 +1,7 @@
 <body>
             <h2>Welcome!</h2>
             <h2 class="parrafo">
-                Hi! 👋 I´m OSSA__B!<br><img src="assets/ossa__b-logo.png" width="100" style="margin:0 auto;"><br> I´m interested in...
+                Hi! 👋 I´m OSSA__B!<br><br> I´m interested in...
             </h2>
             <div class="prrfo">
                 <p class="interesado">
@@ -20,8 +20,9 @@
                 <img src="assets/index-js.png" width="50"> JavaScript <br>
                 <img src="assets/index-html.png" width="50"> HTML 5 <br>
                 <img src="assets/index-css.png" width="50"> CSS 3 <br>
-                <img src="assets/index-cs.png" width="50"> C# <br>
                 <img src="assets/index-java.png" width="50"> Java <br>
+                <img src="assets/index-cs.png" width="50"> C# <br>
+                <img src="assets/index-cpp.png" width="50"> C++ <br>
                 </p>
             </div>
 </body>
