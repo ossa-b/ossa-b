@@ -4,7 +4,7 @@
                 Hi! 👋 I´m OSSA__B!<br><br> I´m a 14-year old code addicted from Santiago, Chile.
             </h2> <br><br>
             <p>
-                        I like to do enduro mtb, play video games, and more. That keeps me active always. I also like to constantly learn new programming languages, frameworks, and much more!
+                        I like to do mtb, play video games, and more. That keeps me active always. I also like to constantly learn new programming languages, frameworks, and much more!
             </p>
             <div>
                         <h1>Some of my projects are ...</h1>
